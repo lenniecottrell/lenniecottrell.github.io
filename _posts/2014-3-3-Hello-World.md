@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to the blog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is the first post in my new blog. I tried out WordPress, but it was too bulky for my needs and it ate the site I designed, so I want to get back to having full control of my site and keeping my blog as minimal as possible. Thanks to Barry Clark for the quick and easy GitHub Pages blog setup using Jekyll!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
