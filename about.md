@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a developer from Portland, Oregon. I am inspired by tech that makes an impact on people's emotions. I used to be a music teacher, and I'm still involved in professional music, but the things that has always driven me has been emotional impact.
+I am a developer from Portland, Oregon. I am inspired by tech that makes an impact on people's emotions. I used to be a music teacher, and I'm still involved in professional music, but the thing that has always driven me has been emotional impact.
 
 The thing that "hooked" me into music when I was younger was when I learned about music theory. High school me was baffled that music actually had STRUCTURE and RULES. Music isn't an innate gift - you can learn the rules! Then you take those rules and make these sounds that hit people right in the heart and soul. It still blows my mind. I fell in love with the marraige of logical structure and creative freedom.
 
