@@ -3,7 +3,7 @@ layout: post
 title: Welcome to the blog!
 ---
 
-Before I learned to code, I was a music teacher. I made music with kids every day, and tried to teach them how to make music that affected their audience. I also started two professional choirs, each focused on telling emotionally compelling stories through creative programming. The thing that has always driven me has been emotional impact, and this hasn't changed as I've reshaped my professional identity as a software developer. (click Read More!)
+Before I learned to code, I was a music teacher. I made music with kids every day, and tried to teach them how to make music that affected their audience. I also started two professional choirs, each focused on telling emotionally compelling stories through creative programming. The thing that has always driven me has been emotional impact, and this hasn't changed as I've reshaped my professional identity as a software developer.
 
 The thing that “hooked” me into music when I was younger was when I learned about music theory. High school me was baffled that music actually had STRUCTURE and RULES. Music isn’t an innate gift - you can learn the rules! Then you take those rules, practice them over and over, and you can make sounds that hit people right in the heart and soul. It still blows my mind. I fell in love with the marraige of logical structure and creative freedom.
 
