@@ -28,7 +28,7 @@ A common experience I've had when solving code problems or trying too build some
 This felt SO good.
 
 <video width="320" height="420" controls>
-  <source src="../images/Flashcard App - basic_demo.mp4" type="video/mp4">
+  <source src="../images/flashcard_app-basic.mp4" type="video/mp4">
 </video>
 
 And now there is SO much more to do!
