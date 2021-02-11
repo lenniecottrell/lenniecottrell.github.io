@@ -27,7 +27,7 @@ A common experience I've had when solving code problems or trying too build some
 
 This felt SO good.
 
-<video width="640" height="420" controls>
+<video>
   <source src="../images/flashcard_app-basic.mp4" type="video/mp4">
 </video>
 

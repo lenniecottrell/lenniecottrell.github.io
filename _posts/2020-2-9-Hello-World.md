@@ -12,7 +12,3 @@ Coding, to me, is exactly the same. There are logical rules (which are, at their
 I started learning to code in March of 2020. I feel very much like [the way Ira Glass describes creative people who are new to creating.](https://vimeo.com/85040589) I know what I like and what I want to be able to do, but my skills don’t yet match the quality of the things I want to make. Accepting the fact that I am a beginner and that learning to code takes time (a long time!) has been a humbling part of the beginning of my journey.
 
 However, I love coding! I love the discovery process and I love how simple steps evolve into complex structures. Knowing that I’m always learning and that I can reshape my career around this activity keeps me focused and energized. I look forward to building interesting things in my career with my new skillset. Stay tuned!
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /\_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
