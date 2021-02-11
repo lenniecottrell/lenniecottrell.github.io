@@ -32,5 +32,3 @@ This felt SO good.
 </video>
 
 And now there is SO much more to do!
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
