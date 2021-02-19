@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Before I learned to code, I was a music teacher. I made music with kids every day, and tried to teach them how to make music that affected their audience. I also started two professional choirs, each focused on telling emotionally compelling stories through creative programming. The thing that has always driven me has been emotional impact, and this hasn't changed as I've reshaped my professional identity as a software developer. 
+Before I learned to code, I was a music teacher. I made music with kids every day, and tried to teach them how to make music that affected their audience. I also started two professional choirs, each focused on telling emotionally compelling stories through creative programming. The thing that has always driven me has been emotional impact, and this hasn't changed as I've reshaped my professional identity as a software developer.
 
 The thing that “hooked” me into music when I was younger was when I learned about music theory. High school me was baffled that music actually had STRUCTURE and RULES. Music isn’t an innate gift - you can learn the rules! Then you take those rules, practice them over and over, and you can make sounds that hit people right in the heart and soul. It still blows my mind. I fell in love with the marraige of logical structure and creative freedom.
 
@@ -21,7 +21,6 @@ My skills include HTML, CSS, JavaScript, React, SQL, Git, and some Python. I lov
 I'm focused on improving my React skills at the moment, but I'm interested in diving much deeper into NodeJS and React-Native for mobile development.
 
 Things I want to learn more about eventually include animations with anime.js, 3D rendering with three.js, game development with JavaScript (maybe C#/Unity some day!), and machine learning with Python.
-
 
 ### Contact me
 
