@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solo progress vs Tutorial Progress
+title: Solo Progress vs Tutorial Progress
 ---
 
 A common bit of advice I hear about learning to code is "build stuff." There comes a point in the learning process where you need to abandon the hand-holding of courses and tutorials and forge your own path ahead. There are a few articles I've read about this that ariculate it much more clearly than I can ([1](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/?utm_source=pocket-ff-recs), [2](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)), but this really is the best advice.
