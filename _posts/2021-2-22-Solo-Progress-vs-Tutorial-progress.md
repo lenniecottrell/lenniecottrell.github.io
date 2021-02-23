@@ -3,7 +3,7 @@ layout: post
 title: Solo Progress vs Tutorial Progress
 ---
 
-A common bit of advice I hear about learning to code is "build stuff." There comes a point in the learning process where you need to abandon the hand-holding of courses and tutorials and forge your own path ahead. There are a few articles I've read about this that ariculate it much more clearly than I can ([1](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/?utm_source=pocket-ff-recs), [2](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)), but this really is the best advice.
+A common bit of advice I hear about learning to code is "build stuff." There comes a point in the learning process where you need to abandon the hand-holding of courses and tutorials and forge your own path ahead. There are a few articles I've read about this that articulate it much more clearly than I can ([1](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/?utm_source=pocket-ff-recs), [2](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)), but this really is the best advice.
 
 I started building a flashcard app because I wanted a study tool, and I wanted to build a full stack app on my own. As I've worked through it, I've had to make detours every so often to read some articles or find a short tutorial to learn more about a piece of tech I didn't know well enough yet. These tutorials have been extremely helpful in understanding the tools I'm using, but they're only every going to be an introduction.
 
