@@ -17,6 +17,6 @@ I knew exactly what needed to be done, but I choked on the implementation. Conve
 
 I left comments in my code to demonstrate that I knew what needed to happen and how to do it with pseudocode, but I didn't submit the code with working solutions. If they actually read my code despite not passing the tests, hopefully my comments will earn me some human points and show that I AM a capable programmer.
 
-This experience has me feeling simultenously like I'm underprepared and like I'm totally ready. On one hand, comparing two arrays is a relatively common task, and I should be able to handle it confidently going into a technical interview. On the other hand, without a time limit and with a person to ask questions to, these questions were not above my head at all.
+This experience has me feeling simultaneously like I'm under prepared and like I'm totally ready. On one hand, comparing two arrays is a relatively common task, and I should be able to handle it confidently going into a technical interview. On the other hand, without a time limit and with a person to ask questions to, these questions were not above my head at all.
 
 I haven't heard back yet. Either way, making it to this step is another step closer to becoming a professional programmer.
