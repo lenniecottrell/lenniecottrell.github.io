@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big progress on the flashcard app.
+title: Big Progress On The Flashcard App.
 ---
 
 Since the beginning of January I've been working on a flashcard app to help myself study computer science and programming concepts. Today feels like a major milestone in its developement. First, how I got here!

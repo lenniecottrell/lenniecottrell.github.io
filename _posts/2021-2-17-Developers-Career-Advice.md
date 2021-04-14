@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developers give great career advice
+title: Developers Give Great Career Advice
 ---
 
 _tl;dr: Developers are algorithmic problem solvers. Getting a job is a problem to be solved, therefore devs (or former devs) offer career advice as an algorithm_

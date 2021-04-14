@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big progress on the flashcard app.
+title: A One Day Project!
 ---
 
 tl;dr - [I made a Geordi La Forge quote generator!](https://lenniecottrell.github.io/geordi-quote-gen/)
