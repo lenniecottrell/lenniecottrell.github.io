@@ -3,8 +3,6 @@ layout: post
 title: Reflections On The Job Search
 ---
 
-(updated 5/2/21)
-
 Last week, I verbally accepted an offer for my first full time tech job. Compared to others I've seen on Reddit, my job serch was relatively short, but that doesn't mean it was any less difficult, stressful, greuling, or emotionally draining.
 
 I finished my bootcamp in October of 2020, and I was employed part time until the end of December. I started applying for jobs in December, and between December and the end of March 2021 I applied to about 45 jobs. Of those, I got
@@ -50,3 +48,5 @@ Constant rejection and feelings of inadequacy make it really tough to stay posit
 Finding a community to commiserate with has been a challenge as well. I found it helpful to lurk around r/CSCareerQuestions and r/learnprogramming. I found a mentorship group called CodingCoach, and a monthly meetup group I feel comfortable talking to.
 
 I'm looking forward to getting started with a full-time job in the tech industry, though I know I'll still have to put in extra work to keep my skills sharp, and keep building projects that stretch and challenge me. I still have a long way to go!
+
+(updated 5/2/21)
