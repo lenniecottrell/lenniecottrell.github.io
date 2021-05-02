@@ -3,7 +3,7 @@ layout: post
 title: A Reflection On The 100DaysOfCode Challenge
 ---
 
-### tl;dr: Consistency is paramount when learning to code. Networking is your best friend in the job hunt. Process is more important than product for sustainability as a developer.
+_tl;dr: Consistency is paramount when learning to code. Networking is your best friend in the job hunt. Process is more important than product for sustainability as a developer._
 
 I wrapped up my first round of #100DaysOfCode on the second day of work at my first full-time job in the tech industry. It felt like the perfect transition, because I could not have landed this job without #100DaysOfCode. Over the course of the challenge I learned a lot about coding, about consistency, [about the job hunt](https://lenniecottrell.github.io/Reflections-On-The-Job-Search/), and about myself over the course of my challenge (plus I got married!).
 
