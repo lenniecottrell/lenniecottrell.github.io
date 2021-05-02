@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Reflection On The #100DaysOfCode Challenge
+title: A Reflection On The 100DaysOfCode Challenge
 ---
 
 tl;dr: Consistency is paramount when learning to code. Networking is your best friend in the job hunt. Process is more important than product for sustainability as a developer.
