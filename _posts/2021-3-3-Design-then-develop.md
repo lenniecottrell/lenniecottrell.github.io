@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design, then develop.
+title: Design, Then Develop.
 ---
 
 Yesterday I had finished a lot of the essential functionality of my flashcard app and I was ready to do a significant overhaul of the UI. I wanted it to look modern and sleek, but my skills are not in design (though I want them to be someday!)
