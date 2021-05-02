@@ -7,7 +7,7 @@ title: A Reflection On The 100DaysOfCode Challenge
 
 I wrapped up my first round of #100DaysOfCode on the second day of work at my first full-time job in the tech industry. It felt like the perfect transition, because I could not have landed this job without #100DaysOfCode. Over the course of the challenge I learned a lot about coding, about consistency, [about the job hunt](https://lenniecottrell.github.io/Reflections-On-The-Job-Search/), and about myself over the course of my challenge (plus I got married!).
 
-I saw a post on LinkedIn a while back about bootcamps graduating people who are "pre-junior." Honestly, this is exactly how I felt. I was not job-ready after the bootcamp, and I bet that's reality for a lot of people. No bootcamp is perfect and mine certainly had its holes, but I also probably should have approached it differently.
+On LinkedIn a while back I saw an opinion that bootcamps are graduating people who are "pre-junior." Honestly, this is exactly how I felt. I was not job-ready after the bootcamp, and I bet that's reality for a lot of people. No bootcamp is perfect and mine certainly had its holes, but I also probably should have approached it differently.
 
 I was the type of bootcamp student who was focused on the finish line instead of truly understanding before moving to the next step. I have learned that there is a balance between forging ahead even when you don't fully understand something, and taking the time to truly digest what you're learning, but during my bootcamp I was too focused on finishing and starting my job search that I didn't take the necessary time to internalize my studies. This meant that when I was done, I didn't feel like I had much to show for it.
 
@@ -27,13 +27,13 @@ At the beginning of this, I knew nothing about React. I started with their offic
 
 Now I love using React! I enjoy building with it, and I would feel comfortable if someone asked me to build something with it. I'm obviously still a beginner, but I understand the parts and basic functionality. I hope my career involves building with React at some point.
 
-Coding every day was the most valuable way to have spent my time while I was unemployed. Without it I wouldn't have built an app I'm proud of, I wouldn't feel as confident as I do, and
+Coding every day was the most valuable way to have spent my time while I was unemployed. Without it I wouldn't have built an app I'm proud of, I wouldn't feel as confident as I do, and I probably wouldn't have landed a job as soon as I did.
 
 ## What I Learned About Myself
 
-Learning to code has made me address the fact that I have always put product over process, and that holds you back when you're a developer. Enjoying coding (which I do!) means enjoying the process. It means enjoying the problems and enjoying the search for solutions; it means enjoying refactoring and improving inefficient code. If you spend the whole time focused on the end, you can never enjoy the middle, and the middle is **most of the time**.
+Learning to code has made me address the fact that I've always put product over process, and that held me back as a developer. Software takes a long time to build, especially by yourself, and enjoying coding (which I do!) means enjoying the process. It means enjoying the problems and enjoying the search for solutions; it means enjoying refactoring and improving inefficient code. If you spend the whole time focused on the end, you can never enjoy the middle, and the middle is **most of the time**.
 
-Enjoying the process also means enjoying learning, because learning takes time. I needed to be okay with the discomfort of only understanding something a little bit, and needed to trust that with time, patience, and consistency, a deeper understanding would come. I should have known this as an educator and musician, but sometime we need new perspectives to really teach us the deeper truths.
+Enjoying the process also means enjoying learning, because also learning takes a long time. I needed to be okay with the discomfort of only understanding something a little bit, and needed to trust that with time, patience, and consistency, a deeper understanding would come. I should have known this as an educator and musician, but sometime we need new perspectives to really teach us the deeper truths.
 
 ## Plans for the next #100DaysOfCode
 
