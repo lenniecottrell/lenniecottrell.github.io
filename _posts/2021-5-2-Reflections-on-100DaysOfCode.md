@@ -31,7 +31,7 @@ Coding every day was the most valuable way to have spent my time while I was une
 
 ## What I Learned About Myself
 
-Learning to code has made me address the face that I have always put product over process, and that holds you back when you're a developer. Enjoying coding (which I do!) means enjoying the process. It means enjoying the problems and enjoying the search for solutions; it means enjoying refactoring and improving inefficient code. If you spend the whole time focused on the end, you can never enjoy the middle, and the middle is **most of the time**.
+Learning to code has made me address the fact that I have always put product over process, and that holds you back when you're a developer. Enjoying coding (which I do!) means enjoying the process. It means enjoying the problems and enjoying the search for solutions; it means enjoying refactoring and improving inefficient code. If you spend the whole time focused on the end, you can never enjoy the middle, and the middle is **most of the time**.
 
 Enjoying the process also means enjoying learning, because learning takes time. I needed to be okay with the discomfort of only understanding something a little bit, and needed to trust that with time, patience, and consistency, a deeper understanding would come. I should have known this as an educator and musician, but sometime we need new perspectives to really teach us the deeper truths.
 
